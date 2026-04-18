@@ -5,3 +5,4 @@
 - [2026-04-18T10:28:45Z] chore: update dependencies to latest versions
 - [2026-04-18T21:01:50Z] chore: update dependencies to latest versions
 - [2026-04-18T13:25:40Z] fix: resolve edge case in input validation
+- [2026-04-18T10:24:41Z] test: add unit tests for core module
